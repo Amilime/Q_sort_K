@@ -1,3 +1,0 @@
-/home/amilime/CLionProjects/homework2_Qsort/cmake-build-debug/CMakeFiles/homework2_Qsort.dir
-/home/amilime/CLionProjects/homework2_Qsort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/amilime/CLionProjects/homework2_Qsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
